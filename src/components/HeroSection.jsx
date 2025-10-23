@@ -1,22 +1,25 @@
 import React from "react";
+import bgVideo from "../assets/images/header.mp4";
 
 export default function HeroSection() {
   return (
     <section className="hero">
-      <div className="hero-overlay">
-        <div className="hero-content">
-          <h1>
-            Langkah Cerdas Melakukan Riset Vendor Sebelum Kerjasama Bisnis
-          </h1>
-          <p>
-            Panduan praktis bagi pelaku industri kayu dan ekspor untuk
-            memastikan kerja sama vendor berjalan aman, efisien, dan
-            profesional.
-          </p>
-          <a href="#pentingnya" className="btn-utama">
-            Pelajari Lebih Lanjut
-          </a>
-        </div>
+      <video className="hero-video" autoPlay loop muted playsInline>
+        <source src={bgVideo} type="video/mp4" />
+      </video>
+
+      <div className="hero-overlay"></div>
+
+      <div className="hero-content">
+        <p className="tagline">#RISETVENDORCERDAS</p>
+        <h1>Langkah Cerdas Melakukan Riset Vendor Sebelum Kerjasama Bisnis</h1>
+        <p>
+          Panduan praktis bagi pelaku industri kayu dan ekspor untuk memastikan
+          kerja sama vendor berjalan aman, efisien, dan profesional.
+        </p>
+        <a href="#pentingnya" className="btn-utama">
+          Pelajari Lebih Lanjut
+        </a>
       </div>
     </section>
   );
