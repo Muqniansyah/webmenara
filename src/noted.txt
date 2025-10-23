@@ -1,0 +1,35 @@
+yang udah :
+1. setup awal dengan react js dan css3
+
+2. cari keywoard untuk judul, meta description, h1 dan h2 (BERDASARKAN SEO DARI UBBERSUGGEST)
+- judul : Langkah Cerdas Riset Vendor Sebelum Kerjasama Bisnis
+- h1 : Langkah Cerdas Melakukan Riset Vendor Sebelum Kerjasama Bisnis
+- h2 :
+#1: Pentingnya Melakukan Riset Vendor Sebelum Bekerjasama
+#2: Faktor yang Perlu Diperhatikan dalam Memilih Vendor
+#3: Langkah-Langkah Melakukan Riset Vendor Secara Efektif
+- meta description : 
+"Pelajari langkah-langkah cerdas dalam melakukan riset vendor sebelum menjalin kerjasama bisnis. Panduan dari PT. Menara Bekasi untuk memastikan kualitas dan kepercayaan dalam industri kayu ekspor."
+- deskripsi singkat :
+Sebelum menjalin kerjasama bisnis, penting untuk melakukan riset vendor agar menemukan vendor terpercaya dan menghindari risiko kerja sama yang merugikan.
+- tagline :
+#RISETVENDORCERDAS (menganalisis sendriri)
+
+
+
+
+
+
+
+3. buat web dan kompress gambar + alt gambar
+
+4. web responsif
+
+5. menambah rel="noopener noreferrer" untuk keamanan link
+
+6. cta
+https://wa.me/6285817298071
+https://menarabekasilestari.site/
+
+7. hosting web
+https://blogmenara.pages.dev/
