@@ -26,14 +26,29 @@ https://wa.me/6285817298071
 https://menarabekasilestari.site/
 
 7. hosting web
+https://webmenara.vercel.app/
 
+(repository menggunakan multi-remote)
+1.) repo dari sourceforge -> namanya sourceforge 
+sourceforge ssh://muqniansyah@git.code.sf.net/p/webmenara/code (fetch)
+sourceforge ssh://muqniansyah@git.code.sf.net/p/webmenara/code (push)
+link : https://sourceforge.net/projects/webmenara/ 
 
-(repository)
-https://sourceforge.net/projects/webmenara/ 
+2.) repo dari github -> namanya origin
+origin      git@github.com:muqniansyah/webmenara.git (fetch)
+origin      git@github.com:muqniansyah/webmenara.git (push)
+link : https://github.com/Muqniansyah/webmenara
+
+cara push multi-remote : git push origin master && git push sourceforge master
 
 8. google analytics
 
 9. google search console
+
+
+
+
+
 
 10. memasukkan keywoard json
 
