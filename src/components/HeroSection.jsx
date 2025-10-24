@@ -1,5 +1,6 @@
 import React from "react";
 import bgVideo from "../assets/images/header.mp4";
+import PelajariLebih from "./button/PelajariLebih";
 
 export default function HeroSection() {
   return (
@@ -17,9 +18,7 @@ export default function HeroSection() {
           Panduan praktis bagi pelaku industri kayu dan ekspor untuk memastikan
           kerja sama vendor berjalan aman, efisien, dan profesional.
         </p>
-        <a href="#pentingnya" className="btn-utama">
-          Pelajari Lebih Lanjut
-        </a>
+        <PelajariLebih />
       </div>
     </section>
   );

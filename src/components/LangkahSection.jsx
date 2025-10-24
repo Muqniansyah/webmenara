@@ -1,4 +1,5 @@
 import React from "react";
+import HubungiKami from "./button/HubungiKami";
 
 export default function LangkahSection() {
   return (
@@ -48,9 +49,7 @@ export default function LangkahSection() {
             ekspor berkualitas tinggi sesuai standar ISPM 15. Hubungi kami untuk
             konsultasi dan kerja sama profesional.
           </p>
-          <a href="#kontak" className="btn-hubungi">
-            Hubungi Kami
-          </a>
+          <HubungiKami />
         </div>
       </div>
     </section>

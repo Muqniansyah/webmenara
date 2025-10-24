@@ -3,8 +3,9 @@ import HeroSection from "./components/HeroSection";
 import PentingnyaSection from "./components/PentingnyaSection";
 import FaktorSection from "./components/FaktorSection";
 import LangkahSection from "./components/LangkahSection";
-import SwiperSection from "./components/SwiperSection";
 import ShareBar from "./components/ShareBar";
+import SwiperSection from "./components/SwiperSection";
+import FaqSection from "./components/FaqSection";
 import Footer from "./components/Footer";
 import "./assets/styles/style.css";
 
@@ -15,8 +16,9 @@ function App() {
       <PentingnyaSection />
       <FaktorSection />
       <LangkahSection />
-      <SwiperSection />
       <ShareBar />
+      <SwiperSection />
+      <FaqSection />
       <Footer />
     </>
   );
