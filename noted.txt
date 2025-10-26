@@ -45,25 +45,20 @@ cara push multi-remote : git push origin master && git push sourceforge master
 
 9. google search console
 
+10. sharing button bar
 
+11. membuat swiper atau carousel slide untuk backlink seo
 
+12. memasukkan keywoard json
 
+13. buat file sitemap.xml dan robots.txt
 
+14. uji url sudah aktif
+https://webmenara.vercel.app/
 
-10. memasukkan keywoard json
-
-11. buat file sitemap.xml dan robots.txt
-
-12. uji url sudah aktif
-https://blogmenara.pages.dev/
-
-13. uji url sitemap sudah aktif
-https://blogmenara.pages.dev/sitemap.xml
-
-14. membuat swiper atau carousel slide untuk backlink seo
-
-15. sharing button bar
+15. uji url sitemap sudah aktif
+https://webmenara.vercel.app/sitemap.xml
 
 16. menambah headers keamanan
 
-17. lakukan minify file (default dari cloudflare)
+17. lakukan minify file (belum)

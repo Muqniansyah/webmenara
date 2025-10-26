@@ -686,7 +686,6 @@ body {
   }
 }
 
-/* Responsif */
 @media (max-width: 900px) {
   .pentingnya-section .content {
     flex-direction: column;

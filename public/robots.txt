@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://webmenara.vercel.app/sitemap.xml

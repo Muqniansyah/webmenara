@@ -13,31 +13,26 @@ export default function LangkahSection() {
           <li>
             <div className="number">1</div>
             <p>
-              🔹 Cari referensi dan ulasan vendor secara online atau asosiasi
+              Cari referensi dan ulasan vendor secara online atau asosiasi
               industri.
             </p>
           </li>
           <li>
             <div className="number">2</div>
-            <p>
-              🔹 Bandingkan beberapa vendor berdasarkan kualitas dan layanan.
-            </p>
+            <p>Bandingkan beberapa vendor berdasarkan kualitas dan layanan.</p>
           </li>
           <li>
             <div className="number">3</div>
-            <p>
-              🔹 Minta contoh produk atau hasil kerja untuk evaluasi kualitas.
-            </p>
+            <p>Minta contoh produk atau hasil kerja untuk evaluasi kualitas.</p>
           </li>
           <li>
             <div className="number">4</div>
-            <p>🔹 Cek pengalaman vendor dalam proyek serupa.</p>
+            <p>Cek pengalaman vendor dalam proyek serupa.</p>
           </li>
           <li>
             <div className="number">5</div>
             <p>
-              🔹 Lakukan kunjungan pabrik untuk menilai langsung kapasitas
-              kerja.
+              Lakukan kunjungan pabrik untuk menilai langsung kapasitas kerja.
             </p>
           </li>
         </ol>

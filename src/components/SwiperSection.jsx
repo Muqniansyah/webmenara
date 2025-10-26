@@ -55,6 +55,8 @@ export default function SwiperSection() {
           1024: { slidesPerView: 3 },
           768: { slidesPerView: 2 },
           480: { slidesPerView: 1 },
+          400: { slidesPerView: 1 },
+          300: { slidesPerView: 1 },
         }}
         className="custom-swiper"
       >
