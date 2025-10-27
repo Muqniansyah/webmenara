@@ -1,11 +1,7 @@
-/* 
-  # Security Headers for webmenara.vercel.app
-*/
-
-/* Apply to all routes */
-https://webmenara.vercel.app/*
+/*
   Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
   Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.jsdelivr.net https://www.googletagmanager.com; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; img-src 'self' data: https://*; font-src 'self' data: https://cdn.jsdelivr.net; connect-src 'self' https://www.google-analytics.com https://cdn.jsdelivr.net; frame-src 'self' https://www.youtube.com https://player.vimeo.com; object-src 'none'; base-uri 'self';
   Referrer-Policy: strict-origin-when-cross-origin
   X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
   Permissions-Policy: camera=(), microphone=(), geolocation=(), accelerometer=(), magnetometer=(), gyroscope=(), fullscreen=(self), payment=()
