@@ -59,6 +59,8 @@ https://webmenara.vercel.app/
 15. uji url sitemap sudah aktif
 https://webmenara.vercel.app/sitemap.xml
 
-16. menambah headers keamanan
+16. peta situs berhasil
 
-17. lakukan minify file (belum)
+17. menambah headers keamanan
+
+18. lakukan minify file (belum)

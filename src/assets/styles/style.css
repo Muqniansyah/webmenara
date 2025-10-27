@@ -734,19 +734,6 @@ body {
     gap: 40px;
   }
 
-  /* langkah section */
-  .langkah-list li {
-    padding: 20px 20px 20px 60px;
-  }
-
-  .section-title {
-    font-size: 1.6rem;
-  }
-
-  .promo-box {
-    padding: 40px 20px;
-  }
-
   /* Swiper js */
   .swiper-section {
     padding: 60px 8%;
@@ -812,24 +799,6 @@ body {
 }
 
 @media (max-width: 480px) {
-  .langkah-list li {
-    padding: 15px 15px 15px 50px;
-  }
-
-  .langkah-list .number {
-    width: 28px;
-    height: 28px;
-    font-size: 0.9rem;
-  }
-
-  .promo-box h3 {
-    font-size: 1.2rem;
-  }
-
-  .promo-box p {
-    font-size: 0.95rem;
-  }
-
   /* swiper js */
   .swiper-section {
     padding: 50px 5%;
