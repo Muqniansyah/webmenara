@@ -8,28 +8,41 @@ import "swiper/css/pagination";
 export default function SwiperSection() {
   const backlinkData = [
     {
-      title: "Website Resmi PT. Kemas Kayu Indonesia",
-      desc: "Menyediakan pallet dan produk lainnya yang berbahan dasar kayu dan playwood dengan kualitas terbaik",
+      title: "Website Resmi PT.Kemas Kayu Indonesia",
+      desc: "Kami selalu memastikan kualitas kayu sesuai standar nasional.",
       icon: "🌍",
       link: "https://menarabekasilestari.site/",
     },
     {
       title: "Pastikan Pallet Anda Siap Kirim Tanpa Risiko!",
-      desc: "Fasilitas Produksi Terintegrasi Bersertifikasi ISPM 15",
+      desc: "Kerjasama hanya dengan vendor terpercaya & berpengalaman.",
       icon: "🚚",
       link: "https://kemaskayuindonesia.my.id/menarabekasi/",
     },
     {
-      title: "Perbedaan Kayu ISPM 15 dan Non ISPM 15 Panduan untuk Ekspor",
-      desc: "Panduan lengkap membedakan Kayu ISPM 15 dan Non ISPM 15.",
-      icon: "📦",
-      link: "https://blogmenara.pages.dev/",
+      title:
+        "Legalitas Ekspor Kayu: Panduan Lengkap Dokumen, Perizinan, dan Sertifikasi SVLK",
+      desc: "Panduan lengkap tentang izin, sertifikat, dan dokumen ekspor kayu yang sah dan aman.",
+      icon: "📑",
+      link: "https://menaraweb.vercel.app/",
     },
     {
-      title: "Panduan Lengkap ISPM 15",
-      desc: "Pelajari pengertian, perlakuan kayu, hingga manfaat sertifikasi ISPM 15 untuk ekspor kayu ke pasar internasional.",
-      icon: "🔔",
-      link: "https://menarabekasi-bbeb1.web.app/",
+      title: "Pentingnya Vendor Berlisensi ISPM 15 dalam Ekspor Kayu",
+      desc: "Pastikan Anda bekerja dengan vendor berizin resmi agar pengiriman kayu diterima global.",
+      icon: "👬",
+      link: "https://muqniansyah.codeberg.page/bekasimenara/",
+    },
+    {
+      title: "Mengenal Kayu Ramah Lingkungan dan Sertifikasi Hijau ",
+      desc: "Ketahui cara mendukung ekspor hijau melalui penggunaan kayu ramah lingkungan.",
+      icon: "💡",
+      link: "https://web-menarabks.vercel.app/",
+    },
+    {
+      title: "Kendala dalam Kerjasama dengan Vendor: Tantangan & Solusi Nyata",
+      desc: "Temukan cara membangun hubungan bisnis yang solid dengan vendor kayu ekspor Anda.",
+      icon: "✨",
+      link: "https://menarabekasi.vercel.app/",
     },
   ];
 
